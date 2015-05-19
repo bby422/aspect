@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/huya-fed/aspect.git",
+    "version": "v1.2.0",
+    "name": "aspect",
+    "main": "aspect.js"
+}
